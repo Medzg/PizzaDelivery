@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaDelivery.Service", "PizzaDelivery.Service\PizzaDelivery.Service.csproj", "{FB6E902A-8373-43DA-BD79-A9AD550A2F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaDelivery.Domain", "PizzaDelivery.Domain\PizzaDelivery.Domain.csproj", "{D05B1235-0CDD-4FBC-AFE6-94DF9CFF437D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaDelivery.Test", "PizzaDelivery.Test\PizzaDelivery.Test.csproj", "{DEFF2EA7-ECC7-4946-9F28-C85F389CF620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaDeliery.Persistance", "PizzaDeliery.Persistance\PizzaDeliery.Persistance.csproj", "{FA0FC993-5F19-4385-B758-EFF0C99EF4FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6E902A-8373-43DA-BD79-A9AD550A2F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6E902A-8373-43DA-BD79-A9AD550A2F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6E902A-8373-43DA-BD79-A9AD550A2F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6E902A-8373-43DA-BD79-A9AD550A2F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05B1235-0CDD-4FBC-AFE6-94DF9CFF437D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05B1235-0CDD-4FBC-AFE6-94DF9CFF437D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05B1235-0CDD-4FBC-AFE6-94DF9CFF437D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05B1235-0CDD-4FBC-AFE6-94DF9CFF437D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFF2EA7-ECC7-4946-9F28-C85F389CF620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFF2EA7-ECC7-4946-9F28-C85F389CF620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFF2EA7-ECC7-4946-9F28-C85F389CF620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFF2EA7-ECC7-4946-9F28-C85F389CF620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0FC993-5F19-4385-B758-EFF0C99EF4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0FC993-5F19-4385-B758-EFF0C99EF4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0FC993-5F19-4385-B758-EFF0C99EF4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0FC993-5F19-4385-B758-EFF0C99EF4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PizzaDelivery.Domain
+namespace PizzaDelivery.Shared
 {
     public class Class1
     {

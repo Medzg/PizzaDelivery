@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaDelivery.Test", "Pizza
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaDeliery.Persistance", "PizzaDeliery.Persistance\PizzaDeliery.Persistance.csproj", "{FA0FC993-5F19-4385-B758-EFF0C99EF4FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaDelivery.Shared", "PizzaDelivery.Shared\PizzaDelivery.Shared.csproj", "{770FE45C-4076-4D24-8AFC-C2D835891F7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{FA0FC993-5F19-4385-B758-EFF0C99EF4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA0FC993-5F19-4385-B758-EFF0C99EF4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA0FC993-5F19-4385-B758-EFF0C99EF4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770FE45C-4076-4D24-8AFC-C2D835891F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770FE45C-4076-4D24-8AFC-C2D835891F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770FE45C-4076-4D24-8AFC-C2D835891F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770FE45C-4076-4D24-8AFC-C2D835891F7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
